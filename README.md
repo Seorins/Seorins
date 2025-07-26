@@ -11,14 +11,14 @@ I'm learning backend development and working on various projects to grow as a pr
 
 ## 📌 주요 프로젝트
 
-- 🍼 [Ibom](https://github.com/seorin/Ibom)  
+- 🍼 [Ibom](https://github.com/Seorins/Ibom)  
 
 - 🎯 [Promsense & Model]  
-  [Promsense](https://github.com/seorin/Promsense)
-  [Promsense-model](https://github.com/seorin/Promsense-model)
+  [Promsense](https://github.com/Seorins/Promsense)
+  [Promsense-model](https://github.com/Seorins/Promsense-model)
   
-- 🔍 [Used Car Market Analysis](https://github.com/seorin/used-car-market-analysis)  
+- 🔍 [Used Car Market Analysis](https://github.com/Seorins/used-car-market-analysis)  
 
-- 🚛 [Early-Morning Delivery Analysis](https://github.com/seorin/early-delivery-market-analysis)  
+- 🚛 [Early-Morning Delivery Analysis](https://github.com/Seorins/early-delivery-market-analysis)  
 
-- 🏭 [Steel Scale Defect Analysis](https://github.com/seorin/steel-scale-defect-analysis)  
+- 🏭 [Steel Scale Defect Analysis](https://github.com/Seorins/steel-scale-defect-analysis)  
