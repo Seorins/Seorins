@@ -7,7 +7,7 @@
 - 📱 [**Ibom**](https://github.com/Seorins/Ibom)  
   A maternity & childcare scheduling web service with hospital visit calendar (Java-based).  
 
-- 🎯 [**Promsense**](https://github.com/Seorins/Promsense)/[**Promsense-Model**](https://github.com/Seorins/Promsense-model)<br>
+- 🎯 [**Promsense**](https://github.com/Seorins/Promsense)|[**Promsense-Model**](https://github.com/Seorins/Promsense-model)<br>
   AI prompt transformation model with integrated web service (LangChain + Django/JS).  
 
 - 🚗 [**Used Car Market Analysis**](https://github.com/Seorins/used-car-market-analysis)  
