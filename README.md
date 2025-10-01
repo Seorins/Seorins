@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=SEORIN's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=SEORIN's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 ## 📌 Major Projects  
