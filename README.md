@@ -5,23 +5,24 @@
 ## 📌 Major Projects  
 
 - 📱 [**Ibom**](https://github.com/Seorins/Ibom)  
-  A maternity & childcare scheduling web service with hospital visit calendar (Java-based).  
+  A maternity and childcare web service focused on vaccination schedules and hospital visit management (Java, Spring).
 
 - 🎯 [**Promsense**](https://github.com/Seorins/Promsense) | [**Promsense-Model**](https://github.com/Seorins/Promsense-model)<br>
-  AI prompt transformation model with integrated web service (LangChain + Django/JS).  
+  An AI-powered prompt transformation service converting Korean input into optimized English image-generation prompts  
+  (Django, JavaScript, LangChain, Fine-tuned SLLM).
 
 - 🚗 [**Used Car Market Analysis**](https://github.com/Seorins/used-car-market-analysis)  
-  Price prediction and data analysis of the used car market (Python, ML).  
+  Data analysis and price prediction for the used car market using machine learning techniques (Python, Data Analysis).
 
 - 📦 [**Early-Morning Delivery Analysis**](https://github.com/Seorins/early-delivery-market-analysis)  
-  Market and demand analysis of the early-morning delivery industry (Python, Data Analysis).  
+  Demand and trend analysis of the early-morning delivery industry (Python, Data Analysis).
 
 - 🏭 [**Steel Scale Defect Analysis**](https://github.com/Seorins/steel-scale-defect-analysis)  
-  Big data analysis and visualization of steel plate scale defects (Python, Big Data).  
+  Big data analysis and visualization of steel plate scale defect patterns (Python, Data Analysis).
 
 - 📘 [**TIL**](https://github.com/Seorins/TIL)  
-  Logging my learning journey, mainly focused on Python and SSAFY curriculum.  
-
+  Personal learning notes mainly focused on backend development, Python, and SSAFY curriculum.
+  
 ---
 
 ## 🛠️ Tech Stacks  
