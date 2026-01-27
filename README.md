@@ -3,16 +3,6 @@
 </div>
 
 ## 📌 Major Projects  
-ㅋㅋ 오케이 이해함 😅
-지금 느낌은 **“정보는 많은데 README 미감이 안 살아있는 상태”**야.
-→ **제목은 영어 + 설명은 아주 간결한 한글**로 정리하면 바로 예뻐짐.
-
-아래는 **GitHub README에서 제일 무난하고 세련된 버전**이야.
-(불필요한 문장 다 쳐내고, 한 줄 요약 중심 👌)
-
----
-
-## 🚀 Major Projects
 
 * ✈️ **[TravUs](https://github.com/Seorins/Travus)**
   무장애 여행 코스 추천 플랫폼 (Django, Vue)
