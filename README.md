@@ -3,26 +3,45 @@
 </div>
 
 ## 📌 Major Projects  
+ㅋㅋ 오케이 이해함 😅
+지금 느낌은 **“정보는 많은데 README 미감이 안 살아있는 상태”**야.
+→ **제목은 영어 + 설명은 아주 간결한 한글**로 정리하면 바로 예뻐짐.
 
-- 📱 [**Ibom**](https://github.com/Seorins/Ibom)  
-  A maternity and childcare web service focused on vaccination schedules and hospital visit management (Java, Spring).
+아래는 **GitHub README에서 제일 무난하고 세련된 버전**이야.
+(불필요한 문장 다 쳐내고, 한 줄 요약 중심 👌)
 
-- 🎯 [**Promsense**](https://github.com/Seorins/Promsense) | [**Promsense-Model**](https://github.com/Seorins/Promsense-model)<br>
-  An AI-powered prompt transformation service converting Korean input into optimized English image-generation prompts  
-  (Django, JavaScript, LangChain, Fine-tuned SLLM).
+---
 
-- 🚗 [**Used Car Market Analysis**](https://github.com/Seorins/used-car-market-analysis)  
-  Data analysis and price prediction for the used car market using machine learning techniques (Python, Data Analysis).
+## 🚀 Major Projects
 
-- 📦 [**Early-Morning Delivery Analysis**](https://github.com/Seorins/early-delivery-market-analysis)  
-  Demand and trend analysis of the early-morning delivery industry (Python, Data Analysis).
+* ✈️ **[TravUs](https://github.com/Seorins/Travus)**
+  무장애 여행 코스 추천 플랫폼 (Django, Vue)
+  *🏆 SSAFY 관통 프로젝트 최우수상*
 
-- 🏭 [**Steel Scale Defect Analysis**](https://github.com/Seorins/steel-scale-defect-analysis)  
-  Big data analysis and visualization of steel plate scale defect patterns (Python, Data Analysis).
+* 📱 **[Ibom](https://github.com/Seorins/Ibom)**
+  산모·육아 일정 관리 웹 서비스
+  *예방접종 및 병원 방문 주기 관리 (Java, Spring)*
 
-- 📘 [**TIL**](https://github.com/Seorins/TIL)  
-  Personal learning notes mainly focused on backend development, Python, and SSAFY curriculum.
-  
+* 🎯 **[PromSense](https://github.com/Seorins/Promsense)** · **[Model](https://github.com/Seorins/Promsense-model)**
+  한글 입력을 이미지 생성용 영문 프롬프트로 변환하는 AI 서비스
+  *(Django, LangChain, RAG, Fine-tuned SLLM)
+  *🥈 POSCO Big Data Academy 우수상*
+
+* 🚗 **[Used Car Market Analysis](https://github.com/Seorins/used-car-market-analysis)**
+  중고차 가격 예측 및 시장 분석
+  *(Python, Data Analysis)*
+
+* 📦 **[Early-Morning Delivery Analysis](https://github.com/Seorins/early-delivery-market-analysis)**
+  새벽배송 시장 수요·트렌드 분석
+  *(Python, Data Analysis)*
+
+* 🏭 **[Steel Scale Defect Analysis](https://github.com/Seorins/steel-scale-defect-analysis)**
+  철강 스케일 결함 패턴 분석
+  *(Python, Data Analysis)*
+
+* 📘 **[TIL](https://github.com/Seorins/TIL)**
+  개발 및 학습 기록 저장소
+
 ---
 
 ## 🛠️ Tech Stacks  
