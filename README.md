@@ -6,7 +6,7 @@
 
 | 프로젝트                                                                                             | 설명                    | 기술 스택                             | 비고                    |
 | ------------------------------------------------------------------------------------------------ | --------------------- | --------------------------------- | --------------------- |
-| **[TravUs](https://github.com/Seorins/Travus)**                                                  | 무장애 여행 코스 추천 플랫폼      | Django, Vue                       | 🏆 SSAFY 관통 프로젝트 최우수상 |
+| **[Travus](https://github.com/Seorins/Travus)**                                                  | 무장애 여행 코스 추천 플랫폼      | Django, Vue                       | 🏆 SSAFY 관통 프로젝트 최우수상 |
 | **[Ibom](https://github.com/Seorins/Ibom)**                                                      | 산모·육아 통합 웹 서비스     | Java, Spring                      |                       |
 | **[PromSense](https://github.com/Seorins/Promsense)**                                            | 프롬프트 변환 서비스 웹 애플리케이션  | Python, Django                    | 🥈 POSCO Bigdata AI Academy 우수상      |
 | **[PromSense-Model](https://github.com/Seorins/Promsense-model)**                                | 프롬프트 변환을 위한 파인튜닝 SLLM 모델 | LangChain, RAG, LoRA, Fine-tuning |                       |
