@@ -10,9 +10,9 @@
 | **[Ibom](https://github.com/Seorins/Ibom)**                                                      | 산모·육아 통합 웹 서비스     | Java, Spring                      |                       |
 | **[PromSense](https://github.com/Seorins/Promsense)**                                            | 프롬프트 변환 서비스 웹 애플리케이션  | Python, Django                    | POSCO Bigdata AI Academy 우수상      |
 | **[PromSense-Model](https://github.com/Seorins/Promsense-model)**                                | 프롬프트 변환을 위한 파인튜닝 SLLM 모델 | LangChain, RAG, LoRA, Fine-tuning |                       |
-| **[Used Car Market Analysis](https://github.com/Seorins/used-car-market-analysis)**              | 중고차 가격 예측 및 시장 분석     | Python, Data Analysis             |                       |
-| **[Early-Morning Delivery Analysis](https://github.com/Seorins/early-delivery-market-analysis)** | 새벽배송 시장 수요·트렌드 분석     | Python, Data Analysis             |                       |
-| **[Steel Scale Defect Analysis](https://github.com/Seorins/steel-scale-defect-analysis)**        | 철강 스케일 결함 패턴 분석       | Python, Data Analysis             |                       |
+| **[Used Car Price Prediction](https://github.com/Seorins/used-car-market-analysis)**              | 중고차 가격 예측 및 시장 분석     | Python, Data Analysis             |                       |
+| **[Early-Morning Delivery Insights](https://github.com/Seorins/early-delivery-market-analysis)** | 새벽배송 시장 수요·트렌드 분석     | Python, Data Analysis             |                       |
+| **[Steel Scale Defect Detection](https://github.com/Seorins/steel-scale-defect-analysis)**        | 철강 스케일 결함 패턴 분석       | Python, Data Analysis             |                       |
 | **[TIL](https://github.com/Seorins/TIL)**                                                        | 개발 및 학습 기록 저장소        |                                   |                       |
 
 ---
