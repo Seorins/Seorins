@@ -2,34 +2,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=SEORIN's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-## 📌 Major Projects  
+## 📌 Major Projects
 
-* ✈️ **[TravUs](https://github.com/Seorins/Travus)**
-  무장애 여행 코스 추천 플랫폼 (Django, Vue)
-  *🏆 SSAFY 관통 프로젝트 최우수상*
+- ✈️ **[TravUs](https://github.com/Seorins/Travus)**  
+  무장애 여행 코스 추천 플랫폼 *(Django, Vue)*  
+  🏆 SSAFY 관통 프로젝트 최우수상
 
-* 📱 **[Ibom](https://github.com/Seorins/Ibom)**
-  산모·육아 일정 관리 웹 서비스
-  *예방접종 및 병원 방문 주기 관리 (Java, Spring)*
+- 📱 **[Ibom](https://github.com/Seorins/Ibom)**  
+  산모·육아 일정 관리 웹 서비스  
+  *(Java, Spring)*
 
-* 🎯 **[PromSense](https://github.com/Seorins/Promsense)** · **[Model](https://github.com/Seorins/Promsense-model)**
-  한글 입력을 이미지 생성용 영문 프롬프트로 변환하는 AI 서비스
-  *(Django, LangChain, RAG, Fine-tuned SLLM)
-  *🥈 POSCO Big Data Academy 우수상*
+- 🎯 **[PromSense · Model](https://github.com/Seorins/Promsense)**  
+  한글 입력을 이미지 생성용 영문 프롬프트로 변환하는 AI 서비스  
+  🥈 POSCO BigData AI Academy 우수상  
+  *(Django, LangChain, RAG, Fine-tuned SLLM)*
 
-* 🚗 **[Used Car Market Analysis](https://github.com/Seorins/used-car-market-analysis)**
-  중고차 가격 예측 및 시장 분석
+- 🚗 **[Used Car Market Analysis](https://github.com/Seorins/used-car-market-analysis)**  
+  중고차 가격 예측 및 시장 분석  
   *(Python, Data Analysis)*
 
-* 📦 **[Early-Morning Delivery Analysis](https://github.com/Seorins/early-delivery-market-analysis)**
-  새벽배송 시장 수요·트렌드 분석
+- 📦 **[Early-Morning Delivery Analysis](https://github.com/Seorins/early-delivery-market-analysis)**  
+  새벽배송 시장 수요·트렌드 분석  
   *(Python, Data Analysis)*
 
-* 🏭 **[Steel Scale Defect Analysis](https://github.com/Seorins/steel-scale-defect-analysis)**
-  철강 스케일 결함 패턴 분석
+- 🏭 **[Steel Scale Defect Analysis](https://github.com/Seorins/steel-scale-defect-analysis)**  
+  철강 스케일 결함 패턴 분석  
   *(Python, Data Analysis)*
 
-* 📘 **[TIL](https://github.com/Seorins/TIL)**
+- 📘 **[TIL](https://github.com/Seorins/TIL)**  
   개발 및 학습 기록 저장소
 
 ---
