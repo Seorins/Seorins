@@ -4,16 +4,16 @@
 
 ## 📌 Major Projects
 
-| 프로젝트                                                                                             | 설명                             | 기술 스택                                   | 비고                    |
-| ------------------------------------------------------------------------------------------------ | ------------------------------ | --------------------------------------- | --------------------- |
-| **[TravUs](https://github.com/Seorins/Travus)**                                                  | 무장애 여행 코스 추천 플랫폼               | Django, Vue                             | 🏆 SSAFY 관통 프로젝트 최우수상 |
-| **[Ibom](https://github.com/Seorins/Ibom)**                                                      | 산모·육아 일정 관리 웹 서비스              | Java, Spring                            |                       |
-| **[PromSense · Model](https://github.com/Seorins/Promsense)**                                    | 한글 입력 기반 이미지 생성 프롬프트 변환 AI 서비스 | Django, LangChain, RAG, Fine-tuned SLLM | 🥈 POSCO Bigdata AI Academy 우수상      |
-| **[Used Car Market Analysis](https://github.com/Seorins/used-car-market-analysis)**              | 중고차 가격 예측 및 시장 분석              | Python, Data Analysis                   |                       |
-| **[Early-Morning Delivery Analysis](https://github.com/Seorins/early-delivery-market-analysis)** | 새벽배송 시장 수요·트렌드 분석              | Python, Data Analysis                   |                       |
-| **[Steel Scale Defect Analysis](https://github.com/Seorins/steel-scale-defect-analysis)**        | 철강 스케일 결함 패턴 분석                | Python, Data Analysis                   |                       |
-| **[TIL](https://github.com/Seorins/TIL)**                                                        | 개발 및 학습 기록 저장소                 |                                         |                       |
-
+| 프로젝트                                                                                             | 설명                    | 기술 스택                             | 비고                    |
+| ------------------------------------------------------------------------------------------------ | --------------------- | --------------------------------- | --------------------- |
+| **[TravUs](https://github.com/Seorins/Travus)**                                                  | 무장애 여행 코스 추천 플랫폼      | Django, Vue                       | 🏆 SSAFY 관통 프로젝트 최우수상 |
+| **[Ibom](https://github.com/Seorins/Ibom)**                                                      | 산모·육아 일정 관리 웹 서비스     | Java, Spring                      |                       |
+| **[PromSense](https://github.com/Seorins/Promsense)**                                            | 프롬프트 변환 서비스 웹 애플리케이션  | Python, Django                    | 🥈 POSCO Bigdata AI Academy 우수상      |
+| **[PromSense-Model](https://github.com/Seorins/Promsense-model)**                                | 프롬프트 변환 파이프라인 및 모델 구성 | LangChain, RAG, LoRA, Fine-tuning |                       |
+| **[Used Car Market Analysis](https://github.com/Seorins/used-car-market-analysis)**              | 중고차 가격 예측 및 시장 분석     | Python, Data Analysis             |                       |
+| **[Early-Morning Delivery Analysis](https://github.com/Seorins/early-delivery-market-analysis)** | 새벽배송 시장 수요·트렌드 분석     | Python, Data Analysis             |                       |
+| **[Steel Scale Defect Analysis](https://github.com/Seorins/steel-scale-defect-analysis)**        | 철강 스케일 결함 패턴 분석       | Python, Data Analysis             |                       |
+| **[TIL](https://github.com/Seorins/TIL)**                                                        | 개발 및 학습 기록 저장소        |                                   |                       |
 
 ---
 
