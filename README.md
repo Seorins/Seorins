@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=SEORIN's%20GITHUB&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-## 📌 Major Projects
+## 📌 Projects
 
 | 프로젝트                                                                                             | 설명                    | 기술 스택                             | 비고                    |
 | ------------------------------------------------------------------------------------------------ | --------------------- | --------------------------------- | --------------------- |
@@ -13,7 +13,6 @@
 | **[Used Car Price Prediction](https://github.com/Seorins/used-car-market-analysis)**              | 중고차 가격 예측 및 시장 분석     | Python, Data Analysis             |                       |
 | **[Early-Morning Delivery Insights](https://github.com/Seorins/early-delivery-market-analysis)** | 새벽배송 시장 수요·트렌드 분석     | Python, Data Analysis             |                       |
 | **[Steel Scale Defect Detection](https://github.com/Seorins/steel-scale-defect-analysis)**        | 철강 스케일 결함 패턴 분석       | Python, Data Analysis             |                       |
-| **[TIL](https://github.com/Seorins/TIL)**                                                        | 개발 및 학습 기록 저장소        |                                   |                       |
 
 ---
 
