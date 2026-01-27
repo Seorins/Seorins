@@ -43,11 +43,3 @@
   </a>
 </div>  
 
----
-
-## 🏅 Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seorins&bg_color=180,1e223e,00000000&title_color=fffaff&text_color=fffaff"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seorins&layout=compact&bg_color=180,1e223e,00000000&title_color=fffaff&text_color=fffaff"/>
-</div>
