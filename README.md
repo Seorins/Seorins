@@ -6,6 +6,7 @@
 
 | 프로젝트                                                                                             | 설명                    | 기술 스택                             | 비고                    |
 | ------------------------------------------------------------------------------------------------ | --------------------- | --------------------------------- | --------------------- |
+| **[Dangdong](https://github.com/Seorins/dangdong-map)** | 빅데이터 기반 반려견 맞춤 산책 추천 서비스 | Spring Boot, Kotlin, LightGBM, Android | SSAFY 특화 프로젝트 |
 | **[Voda](https://github.com/Seorins/Voda)** | AI 기반 무인 매장 이상행동 탐지 및 실시간 소통 솔루션 | Spring Boot, React, YOLOv8, OpenVidu | SSAFY 공통 프로젝트 |
 | **[Travus](https://github.com/Seorins/Travus)**                                                  | 무장애 여행 코스 추천 플랫폼      | Django, Vue                       | SSAFY 관통 프로젝트 최우수상 |
 | **[Ibom](https://github.com/Seorins/Ibom)**                                                      | 산모·육아 통합 웹 서비스     | Java, Spring                      |                       |
