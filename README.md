@@ -54,10 +54,13 @@
   <br/>
 
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
+  <br/>
+  
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+
 
 </div>
 
