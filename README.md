@@ -93,11 +93,11 @@
 ## 🧑‍💻 Contact me  
 
 <div align="center">
-  <a href="https://blog.naver.com/seol1n_">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+  <a href="mailto:tjfls295@naver.com">
+    <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
   </a>
   <a href="mailto:tjfls295@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-</div>  
+</div>
 
