@@ -16,7 +16,7 @@
 | **[Used Car Price Prediction](https://github.com/Seorins/used-car-market-analysis)**              | 중고차 가격 예측 및 시장 분석     | Python, Data Analysis             |                       |
 | **[Early-Morning Delivery Insights](https://github.com/Seorins/early-delivery-market-analysis)** | 새벽배송 시장 수요·트렌드 분석     | Python, Data Analysis             |                       |
 | **[Steel Scale Defect Detection](https://github.com/Seorins/steel-scale-defect-analysis)**        | 철강 스케일 결함 패턴 분석       | Python, Data Analysis             |                       |
-
+| **Interactive Color Psychology Contents using Augmented Reality** | 증강현실 기반 인터랙티브 색채 심리 콘텐츠 | Spark AR, Hand Tracking, 3D Modeling | 한국정보기술학회 대학생 논문경진대회 은상 |
 ---
 
 ## 🛠 Tech Stacks
