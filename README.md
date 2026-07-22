@@ -36,7 +36,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/WISH">WISH</a></h3>
       <p><b>소아암 환아를 위한 감정 회복 마을 플랫폼</b></p>
       <p>
@@ -48,7 +48,7 @@
       <p><b>Role</b> Frontend Leader</p>
       <p>SSAFY 자율 프로젝트</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/dangdong-map">댕동여지도</a></h3>
       <p><b>빅데이터 기반 반려견 맞춤 산책 추천 서비스</b></p>
       <p>
@@ -62,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Voda">Voda</a></h3>
       <p><b>무인 매장 이상행동 탐지 및 실시간 소통 솔루션</b></p>
       <p>
@@ -74,7 +74,7 @@
       <p><b>Role</b> Frontend Leader</p>
       <p>SSAFY 공통 프로젝트</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Travus">Travus</a></h3>
       <p><b>무장애 여행 코스 추천 플랫폼</b></p>
       <p>
@@ -88,7 +88,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Ibom">Ibom</a></h3>
       <p><b>산모·육아 통합 웹 서비스</b></p>
       <p>
@@ -99,7 +99,7 @@
       </p>
       <p><b>Role</b> Team Leader · Full Stack</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Promsense">PromSense</a></h3>
       <p><b>프롬프트 변환 서비스 웹 애플리케이션</b></p>
       <p>
