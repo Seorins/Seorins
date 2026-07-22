@@ -38,7 +38,7 @@
   <tr>
     <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/WISH">WISH</a></h3>
-      <p><b>소아암 환아를 위한 감정 회복 마을 플랫폼</b></p>
+      <p><b>소아암 환아를 위한 행동 기반 감정 회복 마을 플랫폼</b></p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
@@ -64,7 +64,7 @@
   <tr>
     <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Voda">Voda</a></h3>
-      <p><b>무인 매장 이상행동 탐지 및 실시간 소통 솔루션</b></p>
+      <p><b>AI 기반 무인 매장 이상행동 탐지 및 실시간 소통 솔루션</b></p>
       <p>
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
@@ -76,7 +76,7 @@
     </td>
     <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Travus">Travus</a></h3>
-      <p><b>무장애 여행 코스 추천 플랫폼</b></p>
+      <p><b>AI 기반 무장애 여행 코스 추천 플랫폼</b></p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
         <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=Django&logoColor=white">
