@@ -34,7 +34,7 @@
 
 ## Featured Projects
 
-<table width="100%">
+<table width="100%" cellpadding="10">
   <tr>
     <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/WISH">WISH</a></h3>
@@ -47,7 +47,6 @@
       </p>
       <p><b>Role</b> Frontend Leader</p>
       <p>SSAFY 자율 프로젝트</p>
-      <br />
     </td>
     <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/dangdong-map">댕동여지도</a></h3>
@@ -60,7 +59,6 @@
       </p>
       <p><b>Role</b> Backend Leader · AI</p>
       <p>SSAFY 특화 프로젝트</p>
-      <br />
     </td>
   </tr>
   <tr>
@@ -75,7 +73,6 @@
       </p>
       <p><b>Role</b> Frontend Leader</p>
       <p>SSAFY 공통 프로젝트</p>
-      <br />
     </td>
     <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Travus">Travus</a></h3>
@@ -88,7 +85,6 @@
       </p>
       <p><b>Role</b> Team Leader · Full Stack</p>
       <p>SSAFY 관통 프로젝트 최우수상</p>
-      <br />
     </td>
   </tr>
   <tr>
@@ -102,7 +98,6 @@
         <img src="https://img.shields.io/badge/Tomcat%208.5-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black">
       </p>
       <p><b>Role</b> Team Leader · Full Stack</p>
-      <br />
     </td>
     <td width="420" valign="top">
       <h3><a href="https://github.com/Seorins/Promsense">PromSense</a></h3>
@@ -115,7 +110,6 @@
       </p>
       <p><b>Role</b> AI · Web Development</p>
       <p>POSCO Bigdata AI Academy 우수상</p>
-      <br />
     </td>
   </tr>
 </table>
