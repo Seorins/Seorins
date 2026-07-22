@@ -34,7 +34,7 @@
 
 ## Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Seorins/WISH">WISH</a></h3>
@@ -43,6 +43,7 @@
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
         <img src="https://img.shields.io/badge/Phaser-1D1D1D?style=flat-square&logo=Phaser&logoColor=white">
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white">
       </p>
       <p><b>Role</b> Frontend Leader</p>
       <p>SSAFY 자율 프로젝트</p>
@@ -115,12 +116,39 @@
 
 ## Project Archive
 
-| 프로젝트 | 설명 | 기술 스택 | 비고 |
-| --- | --- | --- | --- |
-| **[Used Car Price Prediction](https://github.com/Seorins/used-car-market-analysis)** | 중고차 가격 예측 및 시장 분석 | Python, Data Analysis |  |
-| **[Early-Morning Delivery Insights](https://github.com/Seorins/early-delivery-market-analysis)** | 새벽배송 시장 수요·트렌드 분석 | Python, Data Analysis |  |
-| **[Steel Scale Defect Detection](https://github.com/Seorins/steel-scale-defect-analysis)** | 철강 스케일 결함 패턴 분석 | Python, Data Analysis |  |
-| **Interactive Color Psychology Contents using Augmented Reality** | 증강현실 기반 인터랙티브 색채 심리 콘텐츠 | Spark AR, Hand Tracking, Blender | 한국정보기술학회 대학생 논문경진대회 은상 |
+<table width="100%">
+  <tr>
+    <th width="30%">프로젝트</th>
+    <th width="34%">설명</th>
+    <th width="22%">기술 스택</th>
+    <th width="14%">비고</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Seorins/used-car-market-analysis">Used Car Price Prediction</a></b></td>
+    <td>중고차 가격 예측 및 시장 분석</td>
+    <td>Python, Data Analysis</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Seorins/early-delivery-market-analysis">Early-Morning Delivery Insights</a></b></td>
+    <td>새벽배송 시장 수요·트렌드 분석</td>
+    <td>Python, Data Analysis</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Seorins/steel-scale-defect-analysis">Steel Scale Defect Detection</a></b></td>
+    <td>철강 스케일 결함 패턴 분석</td>
+    <td>Python, Data Analysis</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Interactive Color Psychology Contents using Augmented Reality</b></td>
+    <td>증강현실 기반 인터랙티브 색채 심리 콘텐츠</td>
+    <td>Spark AR, Hand Tracking, Blender</td>
+    <td>한국정보기술학회 대학생 논문경진대회 은상</td>
+  </tr>
+</table>
+
 ---
 
 ## Tech Stack
