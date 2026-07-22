@@ -20,17 +20,13 @@
 
 > 사용자의 흐름을 기준으로 서비스를 설계하고 구현하는 개발자 박서린입니다.
 >
-> 기능 구현에 그치지 않고, 사용자가 어떤 정보를 보고 판단해야 하는지 살핍니다.
->
-> 화면 상태, 예외 상황, API 응답이 자연스러운 경험으로 이어지도록 고민합니다.
+> 기능을 완성하는 데서 멈추지 않고, 사용자가 어떤 정보를 보고 판단해야 하는지, 화면 상태와 예외 상황, API 응답이 어떤 경험으로 이어지는지를 함께 고민합니다.
 >
 > 앞으로도 화면, 데이터, 정책이 하나의 사용자 경험으로 자연스럽게 연결되는 서비스를 만드는 개발자로 성장하고자 합니다.
 
 > I am Seorin Park, a developer who designs and builds services around user flows.
 >
-> I care about more than making features work.
->
-> I connect UI states, edge cases, and API responses into one clear user experience.
+> I care about connecting UI states, edge cases, and API responses into a clear experience, beyond simply making features work.
 >
 > Going forward, I aim to build services where technical implementation and user experience stay connected from start to finish.
 
